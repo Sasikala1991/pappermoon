@@ -1,0 +1,146 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 13, 2018, 9:06:39 AM
+    Author     : PC
+*/
+
+
+@media (min-width:1267px) and (max-width:3600px){
+
+}
+@media (min-width:992px) and (max-width:1266px){
+    header.smaller img, .logo img { width: 30%; }
+}
+@media (min-width:768px) and (max-width:991px){
+    .about .about-detls{ margin-right: 0px; }
+    .about .cook{ margin-left: 0px; }
+    .agileits-banner-info h2{ font-size: 30px; }
+    header, header.smaller { padding: 15px; z-index: 9999; }
+    header.smaller img, .logo img { width: 60%; }
+}
+@media (min-width:561px) and (max-width:767px){
+    .deal-dtls h2 span{ font-size: 22px; }
+    .deal-dtls label,.deal-dtls h2 { font-size: 28px; line-height: 40px; }
+    .menu-dtls hr{ width: 75%; }
+    .about .about-detls p { font-size: 15px; line-height: 30px; }
+    .cook{ float: left; }
+    .cook img{ width: 80%;}
+    .agileits-banner-info h2{ font-size: 30px; }
+    header.smaller img, .logo img { width: 30%; }
+}
+@media (min-width:481px) and (max-width:560px){
+    .deal-dtls h2 span{ font-size: 22px; }
+    .deal-dtls label,.deal-dtls h2 { font-size: 28px; line-height: 40px; }
+    .contact-adress { padding: 60px 10px;}
+    .menu-dtls hr{ width: 70%; }
+    .menu-dtls h3{ padding-bottom: 10px;}
+    .menu-list-item ul li{ padding: 15px; margin: 15px 0px; }
+    .cook img{ width: 40%; margin: 0 auto; }
+    .about .about-detls p{ font-size: 15px; line-height: 30px; }
+    .about .about-detls ul li{ padding: 13px; }
+    .agileits-banner-info h2{ font-size: 30px; }
+    header.smaller img, .logo img { width: 40%; }
+}
+@media (min-width:361px) and (max-width:480px){
+    .deal-dtls h2 span{ font-size: 20px; }
+    .deal-dtls label,.deal-dtls h2 { font-size: 26px; line-height: 38px; }
+    .contact-details p{ text-align: center; }
+    .contact-details p span{ display: block; text-align: center; padding: 0 0 10px 0;}
+    .contact-adress{ padding: 60px 15px; }
+    .special-biriyani-dtls label{ font-size: 25px;}
+    .special-biriyani-dtls label span{ display: block; font-size: 75px; padding: 0 0 10px 0;}
+    .menu-dtls hr{ width: 70%; }
+    .menu-dtls{ text-align: center; }
+    .menu-dtls h3{ margin: 15px 0; font-size: 16px;}
+    .menu-list-item ul li h2 { text-align: center; }
+    .menu-list-item ul li h2 span{ float: none; }
+    .menu-list-item ul li{ padding: 15px; margin: 15px 0px; }
+    .cook img{ width: 40%; margin: 0 auto; }
+    .about .about-detls p{ font-size: 15px; line-height: 30px; }
+    .about .about-detls ul li{ padding: 13px; }
+    .agileits-banner-info h2{ font-size: 27px; }
+    header.smaller img, .logo img { width: 50%; }
+}
+@media (min-width:321px) and (max-width:360px){
+    .deal-dtls h2 span{ font-size: 20px; }
+    .deal-dtls label,.deal-dtls h2 { font-size: 26px; line-height: 38px; }
+    .contact-details p{ text-align: center; }
+    .contact-details p span{ display: block; text-align: center; padding: 0 0 10px 0;}
+    .contact-adress{ padding: 60px 15px; }
+    .special-biriyani-dtls label{ font-size: 25px;}
+    .special-biriyani-dtls label span{ display: block; font-size: 75px; padding: 0 0 10px 0;}
+    .menu-dtls hr{ width: 60%; }
+    .menu-dtls{ text-align: center; }
+    .menu-dtls h3{ margin: 15px 0; font-size: 16px;}
+    .menu-list-item ul li h2 { text-align: center; }
+    .menu-list-item ul li h2 span{ float: none; }
+    .menu-list-item ul li{ padding: 15px; margin: 15px 0px; }
+    .cook img{ width: 40%; margin: 0 auto; }
+    .about .about-detls p{ font-size: 15px; line-height: 30px; }
+    .about .about-detls ul li{ padding: 13px; }
+    .agileits-banner-info p{ display: none; }
+    .agileits-banner-info h2{ font-size: 27px; }
+    header.smaller img, .logo img { width: 55%; }
+}
+@media (min-width:300px) and (max-width:320px){
+    .contact-details p{ text-align: center; }
+    .contact-details p span{ display: block; text-align: center; padding: 0 0 10px 0;}
+    .contact-adress{ padding: 60px 15px; }
+    .deal-dtls h2 span{ font-size: 20px; }
+    .deal-dtls label,.deal-dtls h2 { font-size: 26px; line-height: 38px; }
+    .special-biriyani-dtls label{ font-size: 25px;}
+    .special-biriyani-dtls label span{ display: block; font-size: 75px; padding: 0 0 10px 0;}
+    .menu-dtls hr{ width: 60%; }
+    .menu-dtls{ text-align: center; }
+    .menu-dtls h3{ margin: 15px 0; font-size: 16px;}
+    .menu-list-item ul li h2 { text-align: center; }
+    .menu-list-item ul li h2 span{ float: none; }
+    .menu-list-item ul li{ padding: 15px; margin: 15px 0px; }
+    .about .about-detls p{ font-size: 15px; line-height: 30px; }
+    .about .about-detls ul li{ padding: 12px; }
+    .cook img{ width: 40%; margin: 0 auto; }
+    .agileits-banner-info p{ display: none; }
+    .agileits-banner-info h2{ font-size: 25px; }
+    header.smaller img, .logo img { width: 60%; }
+}
+
+
+@media (min-width:300px) and (max-width:767px){    
+    .menu-dtls-head{ padding: 0; }
+    .inner-banner{ margin-top: 80px;}
+    .menu-head label img{ min-height: 0;}
+    .inner-banner img{ min-height: 125px; }
+    .menu-dels h3{ font-size: 19px;}
+    .menu-dels p{ font-size: 15px;}
+    .menu-dels{ padding: 15px;}
+    .menu-list{ display: flex; }
+    .ftr-logo{ display: none; }
+    .contact-details ul{ display: none; }
+    .deals{ display: block; }
+    .special-biriyani-dtls p{ text-align: justify; font-size: 17px; }
+    .special-biriyani-dtls{ width: 90%; }
+    .menu-list-item ul li{ width: 100%; }
+    .special-dish .owl-carousel{ padding: 0 15px; }
+    .about .about-detls{ margin-right: 0px; }
+    .about .cook{ margin-left: 0px; }
+    .head h2{ font-size: 26px; }
+    .about{ padding: 40px 0; }
+    .agileits-banner-info{ width: 90%;}
+    .callbacks_here a:after{ position: absolute; bottom: 20%; }
+    .callbacks_tabs{ top: auto; bottom: 0; }
+    .callbacks_tabs li{ display: inline-block; }
+    .menu .navbar-nav li{ padding: 5px 0; text-align: center; }
+    header.smaller .menu .navbar-default .navbar-collapse{ margin-top: 10px; background: #e92527cc; }
+    .menu .navbar-default .navbar-collapse{ margin-top: 0; }
+    .top-agileits-banner { margin-top: 80px; }
+    .menu{ margin: 0; }
+
+    header, header.smaller { padding: 15px; z-index: 9999; }
+    .mob-banner{ display: block; }
+    .web-banner{ display: none; }
+    .top-header{ display: none; }
+}
